@@ -28,3 +28,31 @@ h1 {
     margin: 0 auto;
     background-color: white;
 }
+
+.bottone {
+    padding: 20px 50px;
+}
+
+button {
+
+    padding: 10px 20px;
+}
+
+#task {
+    background-color: #46adf1;
+    border: 1px solid lightgrey;
+    color: white;
+    border-radius: 10px;
+}
+
+#sectionb {
+    background-color: white;
+    border: 1px solid lightgrey;
+    color: lightgray;
+    border-radius: 10px;
+}
+
+.list {
+    padding: 4% 50px;
+
+}
