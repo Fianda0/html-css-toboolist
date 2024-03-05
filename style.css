@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: lightgray;
+}
+
+header {
+    height: 100px;
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    display: inline;
+    vertical-align: super;
+    font-size: 49px;
+}
+
+.contenitore {
+    border-radius: 5px;
+    width: 80%;
+    height: 800px;
+    margin: 0 auto;
+    background-color: white;
+}
