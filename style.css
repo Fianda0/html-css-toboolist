@@ -24,7 +24,6 @@ h1 {
 .contenitore {
     border-radius: 5px;
     width: 80%;
-    height: 800px;
     margin: 0 auto;
     background-color: white;
 }
@@ -55,4 +54,67 @@ button {
 .list {
     padding: 4% 50px;
 
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 25px;
+}
+
+.green {
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid greenyellow;
+    color: greenyellow;
+    border-radius: 15px;
+    width: 30px;
+    height: 30px;
+}
+
+.red {
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid red;
+    color: red;
+    border-radius: 15px;
+    width: 30px;
+    height: 30px;
+}
+
+.azzurro {
+    background-color: #46adf1;
+}
+
+.viola {
+    background-color: #a16ff8;
+}
+
+.verde {
+    background-color: green;
+}
+
+.arancio {
+    background-color: orange;
+}
+
+.rosa {
+    background-color: pink;
+}
+
+.verde-lime {
+    background-color: #afc62f;
+}
+
+.rett {
+    font-size: 15px;
+    border-radius: 10px;
+    color: white;
+    padding: 5px 10px;
 }
